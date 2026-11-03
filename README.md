@@ -123,4 +123,4 @@ This project was completed as a course assignment (Task 4 – Neural Style Trans
 
 ## Author
 
-**[Your Name]**
+**Faisal Surya Saputra**
